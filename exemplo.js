@@ -12,22 +12,21 @@ Comentário em texto
 //Vai aparecer no inspencionar
 
 /*console.log("Multimidia")
-
+ß
 let nome = prompt("informe o seu nome: ")
 
 console.log("Bem-vindo " + nome)*/
 
-let numero1 = Number.parseInt(prompt("Digite o primeiro número: "))
-let numero2 = Number.parseInt(prompt("Digite o segundo número: "))
+// let numero1 = Number.parseInt(prompt("Digite o primeiro número: "))
+// let numero2 = Number.parseInt(prompt("Digite o segundo número: "))
 
-let resultado = numero1 + numero2
+// let resultado = numero1 + numero2
 
-let numero1 = Number.parseFloat(prompt("Digite o primeiro número: "))
-let numero2 = Number.parseFloat(prompt("Digite o segundo número: "))
+// let numero1 = Number.parseFloat(prompt("Digite o primeiro número: "))
+// let numero2 = Number.parseFloat(prompt("Digite o segundo número: "))
+// let resultado = numero1 + numero2
 
-let resultado = numero1 + numero2
-
-console.log(resultado)
+// console.log(resultado)
 
 let idade = window.prompt("Qual é a sua idade? ")
 
