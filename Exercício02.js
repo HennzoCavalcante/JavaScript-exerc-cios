@@ -4,7 +4,7 @@
 
 let semana = window.prompt("Digite os número dos dias")
 switch (semana) {
-    case "1":ß
+    case "1":
         console.log("Segunda-feira")
         break;
 
