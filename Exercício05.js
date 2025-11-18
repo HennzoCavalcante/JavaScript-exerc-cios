@@ -7,7 +7,7 @@ let número02 = Number.parseFloat(prompt("Digite o segundo número"))
 let número03 = Number.parseFloat(prompt("Digite o terceiro número"))
 
 if (número01 < número02 && número02 < número03) {
-    console.log("Os números está em ordem crescente!")
+    console.log("Os números estão em ordem crescente!")
 } else {
     console.log("Os números não estão em ordem crescente")
 }

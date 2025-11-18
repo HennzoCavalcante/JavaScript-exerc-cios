@@ -9,6 +9,8 @@ let nota04 = Number.parseFloat(prompt("Digite a sua quarta nota"))
 
 let media = (nota01 + nota02 + nota03 + nota04) / 4
 
+console.log("A média do aluno é: " + media )
+
 if (media >= 7) {
     console.log("Aprovado!")
 
