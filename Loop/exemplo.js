@@ -16,7 +16,7 @@
 //     console.log("O salário é de R$: " + salario)
 // }
 
-// //DO wh  ilw - loop condicional
+ //DO whilw - loop condicional
 // let aumento = 1000
 // do {
 
@@ -30,7 +30,7 @@
 //               0          1        2        3          4         5
 let frutas = ["Banana", "Laranja", "Maça", "Pitaya", "Melancia", "Uva"]
 
-//Item especifico
+// Item especifico
 
 // console.log(frutas[3])
 // console.log(frutas[5])
