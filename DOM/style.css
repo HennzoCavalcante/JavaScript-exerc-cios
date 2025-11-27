@@ -1,0 +1,12 @@
+.texto {
+    color: cadetblue;
+}
+
+#formulario{
+    background-color: rgb(210, 210, 210);
+    width: 380px;
+    height: 50px;
+
+    display: flex;
+    align-items: center;
+}
